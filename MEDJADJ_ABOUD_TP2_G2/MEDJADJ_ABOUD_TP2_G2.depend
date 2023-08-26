@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1672002847 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\display.c
+	"display.h"
+	"LnOF.h"
+	<math.h>
+
+1672002835 c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\display.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"LnOF.h"
+
+1672002236 c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\lnof.h
+	"index.h"
+
+1672002242 c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\index.h
+	"fonctions.h"
+
+1672003332 c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\fonctions.h
+	"main.h"
+	"LnOF.h"
+
+1672002230 c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1672001970 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\fonctions.c
+	"LnOF.h"
+	"display.h"
+	<conio.h>
+
+1672001876 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\index.c
+	"LnOF.h"
+
+1672002835 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\lnof.c
+	"LnOF.h"
+	"display.h"
+
+1672001680 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\main.c
+	"LnOF.h"
+	"display.h"
+	"menus.h"
+
+1672001790 c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\menus.h
+	"display.h"
+	<stdbool.h>
+	"LnOF.h"
+
+1672001632 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2\medjadj_aboud_tp2_g2\menus.c
+	"menus.h"
+	"display.h"
+	"conio.h"
+	"LnOF.h"
+
+1672307754 source:c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\display.c
+	"display.h"
+	"LnOF.h"
+	<math.h>
+
+1672425657 c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\display.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"LnOF.h"
+
+1672425659 c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\lnof.h
+	"index.h"
+
+1672425660 c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\index.h
+	"fonctions.h"
+
+1672425925 c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\fonctions.h
+	"main.h"
+	"LnOF.h"
+
+1672426974 c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1672003332 source:c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\fonctions.c
+	"LnOF.h"
+	"display.h"
+	<conio.h>
+
+1672346213 source:c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\index.c
+	"LnOF.h"
+
+1672421474 source:c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\lnof.c
+	"LnOF.h"
+	"display.h"
+
+1672421603 source:c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\main.c
+	"LnOF.h"
+	"display.h"
+	"menus.h"
+
+1672427028 c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\menus.h
+	"display.h"
+	<stdbool.h>
+	"LnOF.h"
+
+1672421518 source:c:\users\hassiba informatique\downloads\medjadj_aboud_tp2_g2\menus.c
+	"menus.h"
+	"display.h"
+	"conio.h"
+	"LnOF.h"
+
+1672307754 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\display.c
+	"display.h"
+	"LnOF.h"
+	<math.h>
+
+1672425657 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\display.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"LnOF.h"
+
+1672425659 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\lnof.h
+	"index.h"
+
+1672425660 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\index.h
+	"fonctions.h"
+
+1672425925 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\fonctions.h
+	"main.h"
+	"LnOF.h"
+
+1672426974 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1672003332 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\fonctions.c
+	"LnOF.h"
+	"display.h"
+	<conio.h>
+
+1672346213 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\index.c
+	"LnOF.h"
+
+1672427340 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\lnof.c
+	"LnOF.h"
+	"display.h"
+
+1672432584 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\menus.c
+	"menus.h"
+	"display.h"
+	"conio.h"
+	"LnOF.h"
+
+1672427028 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\menus.h
+	"display.h"
+	<stdbool.h>
+	"LnOF.h"
+
+1672432420 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release\main.c
+	"LnOF.h"
+	"display.h"
+	"menus.h"
+
+1672443176 source:c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\display.c
+	"display.h"
+	"LnOF.h"
+	<math.h>
+
+1672425657 c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\display.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"LnOF.h"
+
+1672425659 c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\lnof.h
+	"index.h"
+
+1672425660 c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\index.h
+	"fonctions.h"
+
+1672425925 c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\fonctions.h
+	"main.h"
+	"LnOF.h"
+
+1672426974 c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1672441506 source:c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\fonctions.c
+	"LnOF.h"
+	"display.h"
+	<conio.h>
+
+1672478184 source:c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\index.c
+	"LnOF.h"
+
+1672477705 source:c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\lnof.c
+	"LnOF.h"
+	"display.h"
+
+1672443305 source:c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\main.c
+	"LnOF.h"
+	"display.h"
+	"menus.h"
+
+1672443339 c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\menus.h
+	"display.h"
+	<stdbool.h>
+	"LnOF.h"
+
+1672485340 source:c:\users\hassiba informatique\documents\projects\tp alsdd\medjadj_aboud_tp2_g2_pre-release\menus.c
+	"menus.h"
+	"display.h"
+	"conio.h"
+	"LnOF.h"
+
+1672443176 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\display.c
+	"display.h"
+	"LnOF.h"
+	<math.h>
+
+1672425657 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\display.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"LnOF.h"
+
+1672425659 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\lnof.h
+	"index.h"
+
+1672425660 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\index.h
+	"fonctions.h"
+
+1672425925 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\fonctions.h
+	"main.h"
+	"LnOF.h"
+
+1672426974 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1672441506 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\fonctions.c
+	"LnOF.h"
+	"display.h"
+	<conio.h>
+
+1672512433 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\icon.rc
+
+1672478184 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\index.c
+	"LnOF.h"
+
+1672477705 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\lnof.c
+	"LnOF.h"
+	"display.h"
+
+1672443305 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\main.c
+	"LnOF.h"
+	"display.h"
+	"menus.h"
+
+1672443339 c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\menus.h
+	"display.h"
+	<stdbool.h>
+	"LnOF.h"
+
+1672485340 source:c:\users\raouf\downloads\medjadj_aboud_tp2_g2_pre-release (1)\medjadj_aboud_tp2_g2_pre-release\menus.c
+	"menus.h"
+	"display.h"
+	"conio.h"
+	"LnOF.h"
+
